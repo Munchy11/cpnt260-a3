@@ -8,3 +8,6 @@
 
 ## Author name:
 Lucas Muenchrath
+
+## Pages:
+https://munchy11.github.io/cpnt260-a3/
