@@ -1,0 +1,43 @@
+nav ul {
+  display: flex;
+  flex: auto;
+  list-style: none;
+  justify-content: center;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+  font-variant: small-caps;
+  font-family: 'Inika', serif;
+  font-family: 'Roboto', sans-serif;
+}
+header {
+  text-align: center;
+  font-size: 4.0rem;
+  padding: 45px;
+  font-family: 'Abyssinica SIL', serif;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  display: flex;
+  min-height: 120vh;
+  flex-direction: column;
+}
+main {
+  flex: auto;
+  text-align: center;
+  font-size: 1.6rem;
+  
+}
+footer {
+  font-family: 'Poppins', sans-serif;
+  font-variant: small-caps;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+color: black;
+background-color: white;
+color: black;
+flex: auto;
+text-align: center;
+align-items: flex-end;
+}
+
